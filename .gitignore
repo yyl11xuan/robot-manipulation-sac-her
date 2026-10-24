@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.conda/
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+
+# Experiments
+runs/
+logs/
+models/
+checkpoints/
+*.pt
+*.pth
+*.pkl
